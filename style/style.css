@@ -1,5 +1,5 @@
 body {
-    font: 14px "Century Gothic", Futura, sans-serif;
+    font-family: 'Nunito', sans-serif;
     margin: 20px;
   }
   
@@ -47,5 +47,9 @@ body {
   
   .game-info {
     margin-left: 20px;
+  }
+
+  input{
+    font-family: 'Nunito', sans-serif;
   }
   
